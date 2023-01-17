@@ -1,0 +1,17 @@
+
+html,body {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    width: 100%;
+    height: 600vh;
+
+    z-index: 5;
+
+    position: relative;
+
+    background: rgb(55,13,84);
+    background: linear-gradient(180deg, rgba(55,13,84,1) 0%, rgba(0,0,0,0.9374343487394958) 38%, rgba(0,0,0,1) 64%, rgba(12,179,252,1) 100%);
+}
